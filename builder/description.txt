@@ -1,0 +1,3 @@
+Decouples the creation of a complex object and its representation,
+so that the same process can be reused to build objects from the same
+family.

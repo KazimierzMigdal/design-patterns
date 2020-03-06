@@ -1,0 +1,6 @@
+
+This design pattern creates new object instances by cloning prototype.
+With this pattern reduce the number of classes required by an application.
+This is useful as it makes it easier to derive new kinds of objects,
+when instances of the class have only a few different combinations of state,
+and when instantiation is expensive.
