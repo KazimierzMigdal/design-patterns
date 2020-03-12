@@ -1,0 +1,7 @@
+Mediator is an object which attempts to make two or more decoupled
+objects interact. The mediator handles the communication between
+different classes (or objects of the same class), which allows for
+zero (or little) dependency among them. The resultant decoupled code
+is easy to maintain. The Mediator Design Pattern is a Behavioral Pattern
+as it provides an industry-wide accepted method to handle communication
+between objects.
