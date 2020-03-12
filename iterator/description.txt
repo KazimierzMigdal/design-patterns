@@ -1,0 +1,5 @@
+Iterators are built into the Python language.
+Anything that is iterable can be iterated, including dictionaries, lists, tuples, strings,
+streams, generators, and classes for which you implement iterator syntax.
+
+Traverses a container and accesses the container's elements.
